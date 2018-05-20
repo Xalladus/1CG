@@ -1,0 +1,22 @@
+{
+  "name": "onecleverguy",
+  "version": "1.0.0",
+  "description": "A portfolio page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xalladus/1CG.git"
+  },
+  "author": "Gregory Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xalladus/1CG/issues"
+  },
+  "homepage": "https://github.com/Xalladus/1CG#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
